@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ivory: #FAF6F1;
+  --color-paper: #F3EDE5;
+  --color-ink: #2B2420;
+  --color-clay: #B8695A;
+  --color-clayLight: #E8C9BE;
+  --color-sand: #D9CEC0;
+}
