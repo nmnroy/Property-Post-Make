@@ -2,7 +2,8 @@
 
 A live tool that turns 4 simple inputs into a polished, ready-to-share property post — complete with logo, brand colors, and contact details added automatically. Built for the MLH Claude intern practical assignment.
 
-🔗 **Live demo:** [add your Vercel URL here]
+🔗 **Live demo:** [naman-estates-post-maker.vercel.app](https://naman-estates-post-maker.vercel.app/)
+🎥 **Build walkthrough:** [Watch on Google Drive](https://drive.google.com/file/d/1l6wl-ZSGNiMU0G4uiYI_hkuDPoBs4peb/view?usp=sharing)
 
 ---
 
